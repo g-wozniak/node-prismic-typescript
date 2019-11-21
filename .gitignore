@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+/node_modules
+/node_modules/*
+
+# compilation
+/dist/*/app-dev
+/dist/*/app-prod
+/dist/ts-build
+
+npm-debug.log*
+
+*workspace
