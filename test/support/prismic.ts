@@ -1,6 +1,6 @@
-import { IPrismicRawData } from '../../../src/intf/prismic/IPrismicRawData'
-import { IPrismicParsedData } from '../../../src/intf/prismic/IPrismicParsedData'
-import { Languages } from '../../../src/props/Languages'
+import { IPrismicRawData } from '../../src/intf/prismic/IPrismicRawData'
+import { IPrismicParsedData } from '../../src/intf/prismic/IPrismicParsedData'
+import { Languages } from '../../src/props/Languages'
 
 export namespace PrismicFactory {
 
