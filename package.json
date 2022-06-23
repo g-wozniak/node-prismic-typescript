@@ -28,7 +28,7 @@
     "eslint": "^6.6.0",
     "helmet": "^3.21.1",
     "is-port-reachable": "^2.0.1",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "kill-port": "^1.6.0",
     "lodash": "^4.17.15",
